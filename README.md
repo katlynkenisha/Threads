@@ -1,5 +1,5 @@
 # Exploring User Reviews of Threads App through Topic Modeling
-![Threads-LSE-Impact](https://github.com/katlynkenisha/Threads/assets/109913754/0bc249ab-c1f8-47ed-9c0b-16a9310e15e0)
+![threads](https://github.com/katlynkenisha/Threads/assets/109913754/06bc31f7-1821-4c56-bea7-ec6c6243dc5b)
 
 ## Introduction
 In today’s fast-paced world where trends can shift rapidly, understanding customer sentiments is crucial for creating successful and marketable products. However, gaining insights can become a time-consuming and challenging task, especially with a large customer base. Not to worry, Natural Language Processing (NLP) techniques provide a promising solution to tackle this issue.
@@ -30,16 +30,16 @@ The data cleaning and preparation process for the “Review Date” variable inv
 ### 3. Data Exploration
 Some of the key findings from the data exploration process include:
 
-![1plat](https://github.com/katlynkenisha/Threads/assets/109913754/14d73bf2-49db-45be-b0c7-e052815c8426)
+![threads](https://github.com/katlynkenisha/Threads/assets/109913754/fb1e68f7-f206-46ea-965f-2c10035ab920)
 - Majority of Threads users were Android-based.
 
-![2rate](https://github.com/katlynkenisha/Threads/assets/109913754/31ac741e-5f57-4380-a6c4-4f8b1da6e638)
+![threads](https://github.com/katlynkenisha/Threads/assets/109913754/70fb23dd-8a83-421c-83ff-9efbd5a75472)
 - Threads received a significant number of extreme ratings, either 1 or 5 stars, indicating that users’ sentiments were polarized towards extreme satisfaction or dissatisfaction with the app.
 
-![3time](https://github.com/katlynkenisha/Threads/assets/109913754/b2f68d16-ec7f-4daf-8864-9f7fdac17c8b)
+![threads](https://github.com/katlynkenisha/Threads/assets/109913754/d70f6bad-6d9d-40e9-bede-7a73da28e52b)
 - Threads’ ratings experienced a declining trend over time.
 
-![4plat](https://github.com/katlynkenisha/Threads/assets/109913754/ff06ec65-37c8-4928-8f3b-5d3fd7b26b3d)
+![threads](https://github.com/katlynkenisha/Threads/assets/109913754/dda29232-b636-46dd-ae9a-78b06e128812)
 - Android users tend to have a better experience in comparison to IOS users.
 
 ### 4. Topic Modeling 
@@ -71,7 +71,7 @@ Based on the numerous complaints outlined by users as seen from the negative rev
 - **Compatibility**: Screen size, device, user interface
 - **Account**: Sign up, login, password recovery
 
-![5prob](https://github.com/katlynkenisha/Threads/assets/109913754/c8b4accc-d30d-4db0-8a32-0226bc5ce564)
+![threads](https://github.com/katlynkenisha/Threads/assets/109913754/afaf0f8e-d2a5-4c48-8d18-56f37218d966)
 Threads’ main problem centers on its technical performance, with roughly 11% of users encountering issues in this aspect.
 
 ### 5. Identifying Suggestions from Users
